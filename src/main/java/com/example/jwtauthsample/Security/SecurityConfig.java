@@ -1,9 +1,9 @@
 package com.example.jwtauthsample.Security;
 
 import com.example.jwtauthsample.Security.Filters.JWTAuthFilter;
-import com.example.jwtauthsample.Security.Filters.JWTAuthProvider;
-import com.example.jwtauthsample.Security.Filters.LoginAuthProvider;
 import com.example.jwtauthsample.Security.Filters.LoginFilter;
+import com.example.jwtauthsample.Security.Providers.JWTAuthProvider;
+import com.example.jwtauthsample.Security.Providers.LoginAuthProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

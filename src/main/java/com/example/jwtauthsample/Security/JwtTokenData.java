@@ -1,4 +1,4 @@
-package com.example.jwtauthsample.Security.Filters;
+package com.example.jwtauthsample.Security;
 
 import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
 import org.springframework.security.core.GrantedAuthority;

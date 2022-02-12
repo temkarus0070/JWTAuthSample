@@ -1,4 +1,4 @@
-package com.example.jwtauthsample.Security.Filters;
+package com.example.jwtauthsample.Security.Providers;
 
 import com.example.jwtauthsample.Security.JWTToken;
 import com.example.jwtauthsample.Security.Services.JWTTokenService;
